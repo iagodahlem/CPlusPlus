@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Workspace Name="CPlusPlus">
+  <Project Name="CPlusPlus" Path="CPlusPlus.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="debug" Selected="yes">
+      <Project Name="CPlusPlus" ConfigName="debug"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
